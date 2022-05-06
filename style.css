@@ -798,13 +798,4 @@ select {
     margin: 0 auto 20px;
   }
 }
-
-@media (max-width: 280px) {
-  .main-top {
-    width: 100%;
-  }
-  .main-button {
-    height: 100vh;
-  }
-}
 /*# sourceMappingURL=style.css.map */
