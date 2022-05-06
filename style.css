@@ -746,7 +746,7 @@ select {
     margin: 0 auto 20px;
   }
   .main-button {
-    width: 480px;
+    width: 100%;
   }
   .main-button .content {
     padding: 0 10px;
@@ -781,9 +781,6 @@ select {
 
 @media (max-width: 350px) {
   .main {
-    width: 100%;
-  }
-  .main-button {
     width: 100%;
   }
   .main-button .payBtn {
